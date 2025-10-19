@@ -12,7 +12,7 @@ from threading import Thread
 # ----------------------------------------
 # Конфигурация
 # ----------------------------------------
-TOKEN = "MTQyOTQ1Nzc5MTQ0NTIzNzg0MQ.GvGxeo.px5ot8H-VJUB_nYFFTBa5Nzaj58vOdLiIJpmVA"     # токен хранится в Secrets
+TOKEN = "MTQyOTQ1Nzc5MTQ0NTIzNzg0MQ.GEFYMT.-E435E6L9bnl8I_6HzN7ffmy18INXB_bTAI7p4"     # токен хранится в Secrets
 MASTER_KEY = "KEBAB0101"                # главный ключ
 OWNER_ROLE_IDS = [1429445483948015727]  # <-- впиши ID ролей own/coown
 GUILD_ID = 1429442935023472714           # <-- впиши ID твоего сервера
